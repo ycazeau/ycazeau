@@ -9,13 +9,13 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 
 
-- 🔭 I’m currently working on **a To Do App with Django**
+- 🔭 I’m currently working on **Learning platform**
 
 - 🤝 I’m looking for help with **Cyber Security**
 
-- 🌱 I’m currently learning **Django, React Js**
+- 🌱 I’m currently learning **React Js with Josh w Comeau**
 
-- 💬 Ask me about **Network, Linux, Win Server..**
+- 💬 Ask me about **Network administration, Linux, Windows Server..**
 
 - 📫 How to reach me **ycazeau23@gmail.com**
 
