@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Yves Ronaldo CAZEAU</h1>
-<h3 align="center">I am a computer scientist. I love mathematics, music, cinema, technology, network security and databases, video games, sports...</h3>
+<p align="left">I am a computer scientist with a passion for mathematics, music, cinema, technology, network security, databases, video games, and sports. I am dedicated to using my skills to make a meaningful impact, recognizing that I am not here by accident but with a purpose and a drive to make that purpose a reality throughout my life.
+
+Additionally, I am continuously learning and expanding my knowledge in my field and exploring new areas to further enhance my impact and contribute to the advancement of technology and society.
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ycazeau&label=Profile%20views&color=0e75b6&style=flat" alt="ycazeau" /> </p>
 
@@ -9,13 +13,13 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif">
 
 
-- 🔭 I’m currently working on **Learning platform**
+- 🔭 I’m currently working on a **Learning platform**
 
 - 🤝 I’m looking for help with **Cyber Security**
 
 - 🌱 I’m currently learning **React Js with Josh w Comeau**
 
-- 💬 Ask me about **Network administration, Linux, Windows Server..**
+- 💬 Ask me about **Network and system administration, Linux, Windows Server..**
 
 - 📫 How to reach me **ycazeau23@gmail.com**
 
