@@ -15,11 +15,11 @@ Additionally, I am continuously learning and expanding my knowledge in my field 
 
 - 🔭 I’m currently working on a **Learning platform**
 
-- 🤝 I’m looking for help with **Cyber Security**
+- 🤝 I’m looking for help with **Cyber Security, AWS**
 
 - 🌱 I’m currently learning **React Js with Josh w Comeau**
 
-- 💬 Ask me about **Network and system administration, Linux, Windows Server..**
+- 💬 Ask me about **Network and system administration, Linux, Windows Server, IT Infrastructure and Support**
 
 - 📫 How to reach me **ycazeau23@gmail.com**
 
