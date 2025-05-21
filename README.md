@@ -17,7 +17,7 @@ Additionally, I am continuously learning and expanding my knowledge in my field 
 
 - 🤝 I’m looking for help with **Cyber Security, AWS**
 
-- 🌱 I’m currently learning **React Js with Josh w Comeau**
+- 🌱 I’m currently learning **Cyber security with myakademi & React Js with Josh w Comeau**
 
 - 💬 Ask me about **Network and system administration, Linux, Windows Server, IT Infrastructure and Support**
 
